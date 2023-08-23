@@ -7,7 +7,7 @@
 __________________________________________________________________________________________________________________________________________________________________
 
 
-Te hablare un poco sobre mi, soy una software developer con mas de 3 años de experiencia en los que he trabajado como fullstack manejando backend pero siempre me ha gustado mas el frontend, actualmente estoy dedicada 100% a esto y a expandirme mas hacia otras librerias y frameworks. Mi camino en el mundo dev ha sido de aprender mucho por mi cuenta por lo que me considero una persona que sabe gestionar muy bien su aprendizaje. Tambien trato de compartir lo que aprendo con otros divulgando en redes sociales tips que puedan ser de ayuda.
+Te hablare un poco sobre mi, soy una software developer con mas de 4 años de experiencia en los que he trabajado como fullstack manejando backend pero siempre me ha gustado mas el frontend, actualmente estoy dedicada 100% a esto y a expandirme mas hacia otras librerias y frameworks. Mi camino en el mundo dev ha sido de aprender mucho por mi cuenta por lo que me considero una persona que sabe gestionar muy bien su aprendizaje. Tambien trato de compartir lo que aprendo con otros divulgando en redes sociales tips que puedan ser de ayuda.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="300"/>
